@@ -1,0 +1,76 @@
+# Caderno Temático: Preparação para o Concurso Técnico da Petrobras 2026
+
+## Contexto e Objetivos
+
+O assunto escolhido para este caderno temático foi a **preparação para o processo seletivo técnico da Petrobras 2026**. Reuni simulados anteriores, videoaulas técnicas, PDFs com o conteúdo programático e materiais de apoio dentro de um notebook do NotebookLM (Google), com o objetivo de transformar um volume grande e disperso de material de estudo em um guia único, organizado e fácil de revisar.
+
+Os principais objetivos de estudo definidos foram:
+
+- Organizar o conteúdo das disciplinas básicas (Português e Matemática) e específicas (Química, Física e Engenharia) exigidas no edital.
+- Compreender o funcionamento de sistemas industriais complexos, com foco em bombas, motores e instrumentação, sob uma perspectiva operacional.
+- Aprofundar o entendimento sobre processos industriais e segurança (SMS – Segurança, Meio Ambiente e Saúde).
+- Usar a IA do NotebookLM como ferramenta de curadoria e síntese, extraindo resumos, comparações e planos de revisão a partir das próprias fontes selecionadas, evitando respostas genéricas ou fora do escopo do edital.
+
+🔲 *(Opcional: complemente com seu prazo até a prova, carga horária diária disponível ou qualquer meta pessoal de estudo.)*
+
+## Curadoria de Fontes
+
+Fontes selecionadas entre as carregadas no NotebookLM:
+
+1. **Concurso Petrobrás 2026.pdf** — PDF com o conteúdo programático/edital do concurso. 🔲 *(indique se é um arquivo público com link ou um PDF próprio)*
+2. **1º Simulado Petrobras – Administrativo** — simulado anterior da banca. 🔲 *(link)*
+3. **AS 30 Questões Mais Difíceis (...)** — compilado de questões comentadas. 🔲 *(link)*
+4. **Aula 21 – Válvula de controle e (...)** — videoaula técnica (YouTube). 🔲 *(link)*
+5. **Concurso Petrobras: assuntos m(...)** — artigo/blog técnico sobre o concurso. 🔲 *(link)*
+
+🔲 *No NotebookLM, clique no nome de cada fonte na lista "Fontes" para abrir e copiar o link original (ou confirmar o nome completo), e substitua os campos acima.*
+
+## Engenharia de Prompts e "Cicatrizes"
+
+Perguntas estratégicas feitas ao NotebookLM, respostas obtidas e dificuldades encontradas pelo caminho.
+
+### Prompt 1
+- **Pergunta:** 🔲 *(cole aqui o prompt exato que você digitou)*
+- **Resposta obtida (resumo):** 🔲
+- **Fonte usada como referência pela IA:** 🔲
+- **Dificuldade / ajuste necessário:** 🔲 *(ex: "a primeira versão do prompt trouxe resposta genérica; precisei pedir explicitamente para basear a resposta só nas fontes de física e engenharia")*
+
+### Prompt 2
+- **Pergunta:** 🔲
+- **Resposta obtida (resumo):** 🔲
+- **Fonte usada como referência pela IA:** 🔲
+- **Dificuldade / ajuste necessário:** 🔲
+
+### Prompt 3
+- **Pergunta:** 🔲
+- **Resposta obtida (resumo):** 🔲
+- **Fonte usada como referência pela IA:** 🔲
+- **Dificuldade / ajuste necessário:** 🔲
+
+🔲 *Dica: abra a aba "Conversa" do seu notebook, role para cima e copie 2 ou 3 trocas de pergunta/resposta relevantes para colar aqui.*
+
+## Miniguia de Estudo (Entrega Final)
+
+### Resumos estruturados
+🔲 *Cole aqui, reescrito com suas palavras, o resumo gerado automaticamente pelo NotebookLM (texto da tela inicial do notebook) ou o relatório "Estratégia Petrobras 2026" já gerado na aba Estúdio.*
+
+### Glossário
+
+| Termo | Definição |
+|---|---|
+| SMS | Segurança, Meio Ambiente e Saúde — conjunto de práticas e normas que garantem a integridade dos trabalhadores e a preservação ambiental nas operações industriais. |
+| Instrumentação industrial | 🔲 *(defina com suas palavras)* |
+| Válvula de controle | 🔲 *(defina com suas palavras)* |
+| 🔲 *(outro termo)* | 🔲 |
+| 🔲 *(outro termo)* | 🔲 |
+
+### Prompts reutilizáveis para revisão futura
+
+1. "Resuma os pontos mais importantes sobre [tema] em até 5 tópicos, citando a fonte de cada um."
+2. "Crie um quiz de 10 questões objetivas sobre [nome da fonte], com gabarito comentado."
+3. "Compare os pontos em comum e as diferenças entre [fonte X] e [fonte Y] sobre [tema]."
+4. "Liste os termos técnicos mais citados nas fontes carregadas e explique cada um em uma frase."
+5. "Monte um plano de revisão de 7 dias priorizando os temas que mais aparecem como erro nos simulados."
+
+---
+*Caderno temático produzido com apoio do Google NotebookLM como parte de atividade da DIO.*
